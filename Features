@@ -1,3 +1,5 @@
+
+
 Why Java8 is introduced?
   1. To simplify programming.
   2. To get the adavantage of fast growing hardware i.e to use parallel propgramming.
@@ -1033,3 +1035,5 @@ System.out.printf("age is %d year %d months %d days",p.getYears(),p.getMonths(),
 7) else
 8) System.out.printf("%d is not Leap year",n); 
 9) }
+
+Reference: Durgasoft
